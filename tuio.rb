@@ -5,8 +5,8 @@ require "formula"
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
 class Tuio < Formula
-  homepage "https://github.com/vyslexia/TUIO.git"
-  head "https://github.com/vyslexia/TUIO.git", :branch => "master"
+  homepage "https://github.com/kaust-vislab/TUIO.git"
+  head "https://github.com/kaust-vislab/TUIO.git", :branch => "master"
 
 
   depends_on "cmake" => :build
